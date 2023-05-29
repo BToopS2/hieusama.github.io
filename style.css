@@ -1,0 +1,13 @@
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(38, 128, 35);
+    background-color: #e9eeeacb;
+}
+
+canvas {
+    border: 1px solid #15ce0f;
+    background-color: #f1f1f1;
+}
